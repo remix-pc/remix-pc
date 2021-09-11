@@ -1,8 +1,8 @@
 
 <h1 align="center">Olá, me chamo Guilherme Moreira e seja bem vindo ao meu perfil 👋</h1>
- <p align="center"> - 📚 Estudando Curso Técnico de Desenvolvimento de Sistemas no SENAI</p>
- <p align="center"> - 📜 Certificado do Curso em Vídeo no curso de HTML e CSS3 Módulo 1</p>
- <p align="center"> - 📧 E-mail: gui.moreiradasilva27@gmail.com</p>
+ <p align="center"> ● 📚 Estudando Curso Técnico de Desenvolvimento de Sistemas no SENAI</p>
+ <p align="center"> ● 📜 Certificado do Curso em Vídeo no curso de HTML e CSS3 Módulo 1</p>
+ <p align="center"> ● 📧 E-mail: gui.moreiradasilva27@gmail.com</p>
  
   <div>
   <a href="https://github.com/remix-pc">
