@@ -1,5 +1,5 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a0101&height=180&section=header&text=Guilherme%20Moreira%20da Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
  <p align="center"> ● 📚 Estudando Curso Técnico de Desenvolvimento de Sistemas no SENAI</p>
  <p align="center"> ● 📜 Certificado do Curso em Vídeo no curso de HTML e CSS3 Módulo 1</p>
  <p align="center"> ● 📧 E-mail: gui.moreiradasilva27@gmail.com</p>
