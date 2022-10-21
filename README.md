@@ -7,8 +7,7 @@
   <div>
   <a href="https://github.com/remix-pc">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=remix-pc&show_icons=true&count_private=true&hide_border=true&title_color=8a0101&icon_color=8a0101&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remix-pc&layout=compact&langs_count=7&theme=dracula"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustalmeidaa&layout=compact&hide_border=true&title_color=00bfbf&text_color=8a0101&bg_color=0d1117" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustalmeidaa&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <hr>
 <div align="center">
