@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a0101&height=180&section=header&text=Guilherme%20Moreira%20&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+
 # 💫 About Me:
 ● 📚 Estudando Curso Técnico de Desenvolvimento de Sistemas no SENAI<br>● 📜 Certificado do Curso em Vídeo no curso de HTML e CSS3 Módulo 1<br>● 📧 E-mail: gui.moreiradasilva27@gmail.com
 
@@ -12,11 +15,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=remix-pc&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=remix-pc&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a0101&height=120&section=footer"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=remix-pc&icon=9&color=12)](https://visitcount.itsvg.in)
