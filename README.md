@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-●📜 Diploma Curso Técnico de Desenvolvimento de Sistemas no SENAI<br>● 📚 Estudando Node.JS<br>● 💼 Meio Oficial Soluções Digitais (CaP/ETS) - Robert Bosch LTDA<br>● 📧 E-mail: gui.moreiradasilva27@gmail.com
+●📜 Diploma Curso Técnico de Desenvolvimento de Sistemas no SENAI<br>● 📚 Estudando Python<br>● 💼 Meio Oficial Soluções Digitais (CaP/ETS) - Robert Bosch LTDA<br>● 📧 E-mail: gui.moreiradasilva27@gmail.com
 
 
 ## 🌐 Socials:
