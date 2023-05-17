@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-●📜 Diploma of the Systems Development Technical Course in SENAI<br>● 📚 Studying Python<br>● 💼 Digital Solutions Assistant (CaP/ETS) - Robert Bosch LTDA<br>● 📧 E-mail: gui.moreiradasilva27@gmail.com
+●📜 Diploma of the Systems Development Technical Course in SENAI<br>● 📚 Studying Python<br>● 💼 Meio Oficial - Digital Solutions (CaP/ETS) - Robert Bosch LTDA<br>● 📧 E-mail: gui.moreiradasilva27@gmail.com
 
 
 ## 🌐 Socials:
