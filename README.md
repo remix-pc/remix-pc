@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a0101&height=180&section=header&text=Guilherme%20Moreira%20&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a0101&height=180&section=header&text=Guilherme%20Silva%20&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 
 # 💫 About Me:
