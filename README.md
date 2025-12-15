@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a0101&height=180&section=header&text=Guilherme%20Silva%20&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 # 💫 About Me:
-●📜 Diploma of the Systems Development Technical Course at SENAI<br>● 📚 Software Engineer - Unifavip<br>● 💼 Técnico em Soluções Digitais Jr - Bosch Integrated Solutions Brasil (BISB)<br>● 📧 E-mail: gui.moreiradasilva27@gmail.com
+●📜 Diploma of the Systems Development Technical Course at SENAI<br>● 📚 Software Engineer - Unifavip<br>● 💼 Técnico em Soluções Digitais Jr - Bosch Integrated Solutions Brasil (BISB)<br>● 📧 E-mail: gui.moreiradasilva24@hotmail.com
 
 
 ## 🌐 Socials:
